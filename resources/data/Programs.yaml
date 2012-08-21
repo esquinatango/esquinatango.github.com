@@ -1,0 +1,20 @@
+- name: Tango
+  image: http://esquinatangoaustin.com/images/tavotangoclass.jpg
+  description: "Beginners are guided in understanding the structure of tango from the start. In a relaxed atmosphere, students are coached in the skills of leading and following — as well as the etiquette and culture of Argentine Tango.  As students progress to the different levels more complex figures and technique are taught with lots of personal attention and a great sense of humor! No partner needed for any class!"
+  type: Dance
+- name: Yoga
+  image: http://esquinatangoaustin.com/images/yogsm1.jpg
+  description: "Stretch, bend, breathe, sweat, and smile. Open your body and open your soul, challenge yourself to some strengthening yoga."
+  type: Exercise
+- name: Youth
+  image: http://esquinatangoaustin.com/images/youthsummer1011sm.jpg
+  description: "Demonstrations where costumes are encouraged and family and friends are invited will take place on the last class of each session.  "
+  type: Outreach
+- name: Spanish
+  image: http://esquinatangoaustin.com/images/spanishclass.jpg
+  description: "Join this personal and interactive Spanish program, taught by native speakers. The class will insert different types of teaching modalities, group dynamics, interaction and pedagogical techniques. The goal of this course is to learn the Spanish language in an open, free, relaxed and fun environment."
+  type: Language
+- name: Samba
+  image: http://esquinatangoaustin.com/images/kaitlynsamba2011.jpg
+  description: "This class will cover the fundamentals of samba as it is danced in the Bahia and Rio regions of Brazil. Emphasis will be placed on understanding the basic samba step, developing proper technique, and learning a range of movements and footwork associated with each regional style. This type of samba should not be confused with ballroom samba, so no partner is necessary."
+  type: Dance

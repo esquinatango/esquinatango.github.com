@@ -1,0 +1,101 @@
+[
+  {
+    "text": "Classes",
+    "id": "classesnode",
+    "image": true,
+    "detail": false,
+    "filter": true,
+    "sorter": "starts",
+    "grouper": "starts",
+    "children": [
+      {
+        "text": "Monday",
+        "leaf": true
+      },
+      {
+        "text": "Tuesday",
+        "leaf": true
+      },
+      {
+        "text": "Wednesday",
+        "leaf": true
+      },
+      {
+        "text": "Thursday",
+        "leaf": true
+      },
+      {
+        "text": "Friday",
+        "leaf": true
+      },
+      {
+        "text": "Saturday",
+        "leaf": true
+      },
+      {
+        "text": "Sunday",
+        "leaf": true
+      }
+    ]
+  },
+  {
+    "text": "Events",
+    "id": "eventsnode",
+    "image": true,
+    "detail": true,
+    "filter": true,
+    "sorter": "date",
+    "grouper": "date",
+    "children": [
+      {
+        "text": "Milonga",
+        "leaf": true
+      },
+      {
+        "text": "Show",
+        "leaf": true
+      },
+      {
+        "text": "Workshop",
+        "leaf": true
+      }
+    ]
+  },
+  {
+    "text": "Programs",
+    "id": "programsnode",
+    "image": true,
+    "detail": true,
+    "filter": true,
+    "sorter": false,
+    "grouper": false,
+    "children": [
+      {
+        "text": "Dance",
+        "leaf": true
+      },
+      {
+        "text": "Spanish",
+        "leaf": true
+      },
+      {
+        "text": "Yoga",
+        "leaf": true
+      },
+      {
+        "text": "Exercise",
+        "leaf": true
+      }
+    ]
+  },
+  {
+    "text": "People",
+    "id": "peoplenode",
+    "image": true,
+    "detail": true,
+    "filter": false,
+    "sorter": false,
+    "grouper": "name",
+    "leaf": true
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "name": "Tango: Connection - Style - Musicality",
+    "type": "Monday",
+    "level": "All",
+    "session": "4-week starts July 2nd",
+    "program": "Tango",
+    "starts": 66600,
+    "ends": 72000,
+    "teacher": "Monica",
+    "assistant": null
+  },
+  {
+    "name": "By Donation Power Yoga",
+    "type": "Tuesday",
+    "level": "All",
+    "session": "Drop-in",
+    "program": "Yoga",
+    "starts": "07:30",
+    "ends": "08:45",
+    "teacher": "Nina",
+    "assistant": null
+  },
+  {
+    "name": "Free \"La Juventud\" Dance classes",
+    "type": "Tuesday",
+    "level": "Ages 4-10",
+    "session": "Check session",
+    "program": "Youth",
+    "starts": 62100,
+    "ends": 65700,
+    "teacher": "Monica",
+    "assistant": "Stephanie"
+  },
+  {
+    "name": "Spanish Conversational",
+    "type": "Tuesday",
+    "level": "Mix",
+    "session": "5-week starts July 3rd",
+    "program": "Spanish",
+    "starts": 66600,
+    "ends": 70200,
+    "teacher": "Gustavo",
+    "assistant": null
+  },
+  {
+    "name": "Samba",
+    "type": "Tuesday",
+    "level": "Beginner",
+    "session": "5-week starts July 3rd",
+    "program": "Samba",
+    "starts": 66600,
+    "ends": 70200,
+    "teacher": "Kaitlyn",
+    "assistant": null
+  },
+  {
+    "name": "Samba",
+    "type": "Tuesday",
+    "level": "Intermediate",
+    "session": "5-week starts July 3rd",
+    "program": "Samba",
+    "starts": 71100,
+    "ends": 74700,
+    "teacher": "Rebekah",
+    "assistant": null
+  }
+]

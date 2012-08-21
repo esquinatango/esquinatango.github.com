@@ -1,0 +1,63 @@
+- text: Classes
+  id: classesnode
+  image: yes
+  detail: no
+  filter: yes
+  sorter: starts
+  grouper: starts
+  children:
+  - text: Monday
+    leaf: true
+  - text: Tuesday
+    leaf: true
+  - text: Wednesday
+    leaf: true
+  - text: Thursday
+    leaf: true
+  - text: Friday
+    leaf: true
+  - text: Saturday
+    leaf: true
+  - text: Sunday
+    leaf: true
+
+- text: Events
+  id: eventsnode
+  image: yes
+  detail: yes
+  filter: yes
+  sorter: date
+  grouper: date
+  children:
+  - text: Milonga
+    leaf: true
+  - text: Show
+    leaf: true
+  - text: Workshop
+    leaf: true
+
+- text: Programs
+  id: programsnode
+  image: yes
+  detail: yes
+  filter: yes
+  sorter: no
+  grouper: no
+  children:
+  - text: Dance
+    leaf: true
+  - text: Spanish
+    leaf: true
+  - text: Yoga
+    leaf: true
+  - text: Exercise
+    leaf: true
+
+- text: People
+  id: peoplenode
+  image: yes
+  detail: yes
+  filter: no
+  sorter: no
+  grouper: name
+  leaf: true

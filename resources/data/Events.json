@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Milonga del Campanario",
+    "image": "http://esquinatangoaustin.com/images/cabeceo2.jpg",
+    "type": "Milongas",
+    "program": "Tango",
+    "date": "2012/07/28",
+    "time": "9:00 pm - 1:00 am",
+    "price": "$10 General / $7 Esquina Members and University Students",
+    "description": "Every 4th Saturday of the Month"
+  },
+  {
+    "name": "Tango Meets Bollywood",
+    "image": "http://www.esquinatangoaustin.com/images/tom3.jpg",
+    "type": "Fundraisers",
+    "program": "Tango",
+    "date": "2012/08/04",
+    "time": "9:00 pm - 1:00 am",
+    "price": "Suggested donation of $10 - $20",
+    "description": "A fundraiser event to benefit Tom Kamrath. The evening will begin at 9 p.m. with an Intro to Tango lesson followed by open social dancing. Tangos will be played throughout evening along with Bollywood music with amazing DJ Dan Singh that is sure to get you out of your seat! You won't want to miss the surprise musical medley performances that will take place throughout the night in Tom’s honor."
+  },
+  {
+    "name": "Son de Rey",
+    "image": "http://www.esquinatangoaustin.com/images/sonderey.jpg",
+    "type": "Shows",
+    "program": "Salsa",
+    "date": "2012/08/10",
+    "time": "9:00 pm - 1:00 am",
+    "price": "",
+    "description": "Son de Rey represents Austin’s premiere Latin Alternative sound cultivating a style that combines Cumbia and Salsa with Tejano roots. The groups’ musical diversity has nurtured a contemporary, powerful, and original sound which captivates fans from all walks of life. Their modern arrangements and blend of musical styles, along with high energy performances continue to leave a lasting impression wherever they strike a beat. Son de Rey’s concerts are filled with memorable melodies and danceable grooves driven by jamming percussion breakdowns. Recent arrangements and new singles show off the bands cutting - edge style and taste for radio. The group’s wide array of influences shines through their original compositions. The members of Son de Rey have collectively shared the stage with some of the best in Tejano and Latin Music including Ruben Ramos, Michael Salgado, Carlos Santana, Ray Obiedo, Malo, The Hometown Boys, Bombasta, Lush, as well as a host of other premiere acts."
+  },
+  {
+    "name": "Silvina Valz and Oliver Kolker Tango Workshop",
+    "image": "http://esquinatangoaustin.com/images/silolib12.jpg",
+    "type": "Workshops",
+    "program": "Salsa",
+    "date": "2012/07/28",
+    "time": "",
+    "price": "",
+    "description": "Oliver & Silvina, of Argentina have traveled throughout Europe, Russia, Buenos Aires and the United States and have become some of the best tango instructors! They are very pleased to make their return to Austin to work with our close community and get to meet new and inspiring dancers! These amazing dancers perform tango with great energy, clarity and elegance."
+  }
+]
