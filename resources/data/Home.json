@@ -2,7 +2,7 @@
   {
     "text": "Classes",
     "id": "classesnode",
-    "image": true,
+    "image": "classes.png",
     "detail": false,
     "filter": true,
     "sorter": "starts",
@@ -41,22 +41,22 @@
   {
     "text": "Events",
     "id": "eventsnode",
-    "image": true,
+    "image": "events.png",
     "detail": true,
     "filter": true,
     "sorter": "date",
     "grouper": "date",
     "children": [
       {
-        "text": "Milonga",
+        "text": "Milongas",
         "leaf": true
       },
       {
-        "text": "Show",
+        "text": "Shows",
         "leaf": true
       },
       {
-        "text": "Workshop",
+        "text": "Workshops",
         "leaf": true
       }
     ]
@@ -64,7 +64,7 @@
   {
     "text": "Programs",
     "id": "programsnode",
-    "image": true,
+    "image": "programs.png",
     "detail": true,
     "filter": true,
     "sorter": false,
@@ -91,11 +91,24 @@
   {
     "text": "People",
     "id": "peoplenode",
-    "image": true,
+    "image": "people.png",
     "detail": true,
     "filter": false,
     "sorter": false,
     "grouper": "name",
-    "leaf": true
+    "children": [
+      {
+        "text": "Teachers",
+        "leaf": true
+      },
+      {
+        "text": "Volunteers",
+        "leaf": true
+      },
+      {
+        "text": "Board Members",
+        "leaf": true
+      },
+    ]
   }
 ]

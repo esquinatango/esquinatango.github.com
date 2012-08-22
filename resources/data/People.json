@@ -3,36 +3,42 @@
     "name": "Monica",
     "lastname": "Caivano",
     "image": "http://esquinatangoaustin.com/images/tangomonitavo.jpg",
-    "bio": "Monica (tango instructor) began teaching tango in 1997, in Austin, Texas. Her love for the dance, the music and the culture of tango comes across in the enthusiasm and accessibility she offers her students. Above all, Monica seeks through her teaching to get people “out in the street” dancing socially. Her strengths lie in conveying both the technique and the passion of tango."
+    "bio": "Monica (tango instructor) began teaching tango in 1997, in Austin, Texas. Her love for the dance, the music and the culture of tango comes across in the enthusiasm and accessibility she offers her students. Above all, Monica seeks through her teaching to get people “out in the street” dancing socially. Her strengths lie in conveying both the technique and the passion of tango.",
+    "type": "Teachers"
   },
   {
     "name": "Nina",
     "lastname": "Perales",
     "image": "http://esquinatangoaustin.com/images/ninayoga.jpg",
-    "bio": "Nina (yoga program founder, instructor & Board Member)  is a bilingual native Austinite. She's been practicing yoga since 2003 and began teaching during Esquina Tango's first year.  She is strongly influenced by Bryan Kest, Ally Hamilton, Lourdes Paredes, and Brienne Brown.  These teachers instilled the approachable aspect of yoga that includes physical, spiritual, and mental  health benefits. She believes that anyone can  practice yoga - it's breathing and being aware, which can  create the simplest and yet the most powerful positive impact on daily  life."
+    "bio": "Nina (yoga program founder, instructor & Board Member)  is a bilingual native Austinite. She's been practicing yoga since 2003 and began teaching during Esquina Tango's first year.  She is strongly influenced by Bryan Kest, Ally Hamilton, Lourdes Paredes, and Brienne Brown.  These teachers instilled the approachable aspect of yoga that includes physical, spiritual, and mental  health benefits. She believes that anyone can  practice yoga - it's breathing and being aware, which can  create the simplest and yet the most powerful positive impact on daily  life.",
+    "type": "Board Members"
   },
   {
     "name": "Stephanie",
     "lastname": "Keeton",
     "image": "http://esquinatangoaustin.com/images/dsc02957.jpg",
-    "bio": "Stephanie (salsa aerobics & youth  instructor) was born in Corpus Christi, Texas where she started studying dance at the tender age of 4 years old. She then went on to study with Ricardo Villa, Director of Ballet Nacional in Corpus Christi, where she became a featured soloist and dance instructor for all ages. After studying with Ballet Nacional for 10 years she moved to Austin where she found her new dance home at Aztlan Dance Company, with Director Roen Salinas. She is a featured dancer, choreographer and dance instructor and has been dancing with Aztlan for 7 years. Her passion for dancing is fired by the love she has for the art of practicing, teaching and performing. Ahoralee!!"
+    "bio": "Stephanie (salsa aerobics & youth  instructor) was born in Corpus Christi, Texas where she started studying dance at the tender age of 4 years old. She then went on to study with Ricardo Villa, Director of Ballet Nacional in Corpus Christi, where she became a featured soloist and dance instructor for all ages. After studying with Ballet Nacional for 10 years she moved to Austin where she found her new dance home at Aztlan Dance Company, with Director Roen Salinas. She is a featured dancer, choreographer and dance instructor and has been dancing with Aztlan for 7 years. Her passion for dancing is fired by the love she has for the art of practicing, teaching and performing. Ahoralee!!",
+    "type": "Board Members"
   },
   {
     "name": "Gustavo",
     "lastname": "Simplis",
     "image": "http://esquinatangoaustin.com/images/Teachers/gustavoymonica.jpg",
-    "bio": "Gustavo (Spanish & tango instructor) Gustavo is one of Esquina's main tango instructors. 10 years ago Gustavo found his passion for tango as a dance (being from Argentina, the music had always been part of his life), and he went on to become a talented and experienced dancer. His dance style expresses passionate feelings and connection and a sense of humor with his partner,  the audience and the music.He has trained under some of the most reknown professional such as Lorena Ermocida, Osvaldo Zotto and Daniel “El Flaco” Garcia. Gustavo’s main asset is that he makes tango accessible to all. He connects and helps people of all ages feel comfortable and gives them the confidence to enjoy the dance and appreciate the culture. In teaching this dance he loves he has found a calling. Gustavo's classes are fun & full of energy! Gustavo is also the Spanish Conversational instructor. Spanish is not only his native language, he is also passionate about it. He has taught and tutored people in the Spanish language and is eager to get people more comfortable in comprehending and speaking Spanish."
+    "bio": "Gustavo (Spanish & tango instructor) Gustavo is one of Esquina's main tango instructors. 10 years ago Gustavo found his passion for tango as a dance (being from Argentina, the music had always been part of his life), and he went on to become a talented and experienced dancer. His dance style expresses passionate feelings and connection and a sense of humor with his partner,  the audience and the music.He has trained under some of the most reknown professional such as Lorena Ermocida, Osvaldo Zotto and Daniel “El Flaco” Garcia. Gustavo’s main asset is that he makes tango accessible to all. He connects and helps people of all ages feel comfortable and gives them the confidence to enjoy the dance and appreciate the culture. In teaching this dance he loves he has found a calling. Gustavo's classes are fun & full of energy! Gustavo is also the Spanish Conversational instructor. Spanish is not only his native language, he is also passionate about it. He has taught and tutored people in the Spanish language and is eager to get people more comfortable in comprehending and speaking Spanish.",
+    "type": "Teachers"
   },
   {
     "name": "Kaitlyn",
     "lastname": "Joly",
     "image": "http://esquinatangoaustin.com/images/kaitsambasm.jpg",
-    "bio": "Kaitlyn (samba instructor) is a lover and a lifelong student of dance.  She has been studying samba, Capoeira Angola and other Afro-Brazilian dances since 2002.  She started performing in and around her hometown of Boston, MA with an independent collective of dancers before joining Bloco Afro Brazil in 2007.  She has studied orixá dance, samba no pé and samba reggae with Isaura Olivera, Danielle Lima and most recently Rosangela Silvestre and Ananda at California Brazil Camp.  Since her arrival in Austin, she has been truly blessed by the community of drummers and dancers of Acadêmicos da Opera and by the wonderful familia at Esquina Tango.  She is thrilled to be joining the ranks of such talented instructors!"
+    "bio": "Kaitlyn (samba instructor) is a lover and a lifelong student of dance.  She has been studying samba, Capoeira Angola and other Afro-Brazilian dances since 2002.  She started performing in and around her hometown of Boston, MA with an independent collective of dancers before joining Bloco Afro Brazil in 2007.  She has studied orixá dance, samba no pé and samba reggae with Isaura Olivera, Danielle Lima and most recently Rosangela Silvestre and Ananda at California Brazil Camp.  Since her arrival in Austin, she has been truly blessed by the community of drummers and dancers of Acadêmicos da Opera and by the wonderful familia at Esquina Tango.  She is thrilled to be joining the ranks of such talented instructors!",
+    "type": "Teachers"
   },
   {
     "name": "Rebekah",
     "lastname": "Fowler",
     "image": "http://esquinatangoaustin.com/images/Teachers/samba.jpg",
-    "bio": "Rebekah (samba & Brazilian Street Dance instructor) an avid student of Afro-Brazilian dance since 1995, continues to study and share the dance traditions found in Bahia, Rio and beyond. Since 2000, she has taught dancers how to samba like they do it in Brazil, focusing on footwork, technique and the spirit of 'alegria e charme' (joy and charm)."
+    "bio": "Rebekah (samba & Brazilian Street Dance instructor) an avid student of Afro-Brazilian dance since 1995, continues to study and share the dance traditions found in Bahia, Rio and beyond. Since 2000, she has taught dancers how to samba like they do it in Brazil, focusing on footwork, technique and the spirit of 'alegria e charme' (joy and charm).",
+    "type": "Teachers"
   }
 ]
